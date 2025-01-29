@@ -13,6 +13,10 @@
 
 - 📝[Please visit my post on personal finance](https://www.linkedin.com/posts/pragna-junga-01075b195_thebestinvestmentyoucandoinyourlifeisinvestinginyourself-activity-7276681820828540928-cO5T?utm_source=share&utm_medium=member_desktop)
 
+- 📝[Please visit my post on valuation](https://www.linkedin.com/posts/pragna-junga-01075b195_stockmarket-investing-valuation-activity-7280672518602944512-2DyM?utm_source=share&utm_medium=member_android)
+
+- 📫 How to reach me 
+
 - 📫 How to reach me **jangapragna@gmail.com**
 
 - 📄[My Resume](https://drive.google.com/file/d/1InhhbMsgJQIGQCYkJECr77bi91meB9yw/view?usp=drive_link)
