@@ -11,17 +11,15 @@
 
 - 🔭 I've worked in [Equity Research Report on Starbucks](https://drive.google.com/file/d/1HrjOiucY3edcuyrL3sZRKc9fjDCRdQqq/view?usp=drive_link)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1XhYXD6adfzw0dDeJkkG1pQxLSj_--sHV?usp=sharing](https://drive.google.com/drive/folders/1XhYXD6adfzw0dDeJkkG1pQxLSj_--sHV?usp=sharing)
-
-- 📝 Please visit my post on personal finance [https://www.linkedin.com/posts/pragna-junga-01075b195_thebestinvestmentyoucandoinyourlifeisinvestinginyourself-activity-7276681820828540928-cO5T?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/pragna-junga-01075b195_thebestinvestmentyoucandoinyourlifeisinvestinginyourself-activity-7276681820828540928-cO5T?utm_source=share&utm_medium=member_desktop)
+- 📝[Please visit my post on personal finance](https://www.linkedin.com/posts/pragna-junga-01075b195_thebestinvestmentyoucandoinyourlifeisinvestinginyourself-activity-7276681820828540928-cO5T?utm_source=share&utm_medium=member_desktop)
 
 - 📫 How to reach me **jangapragna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1InhhbMsgJQIGQCYkJECr77bi91meB9yw/view?usp=drive_link](https://drive.google.com/file/d/1InhhbMsgJQIGQCYkJECr77bi91meB9yw/view?usp=drive_link)
+- 📄[My Resume](https://drive.google.com/file/d/1InhhbMsgJQIGQCYkJECr77bi91meB9yw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pragna-junga-01075b195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragna-junga-01075b195" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pragna-junga-01075b195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragna-junga-01075b195/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
