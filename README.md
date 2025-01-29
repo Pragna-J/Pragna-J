@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Equity Research Analysis**
 
-- 🔭 I've worked in [Equity Research Report on Amazon](https://drive.google.com/file/d/1q5TJdcXijjVDTB7GXprXrmzyMJRWiP74/view?usp=drive_link)
+- 🔭 Project work 1 [Equity Research Report on Amazon](https://drive.google.com/file/d/1q5TJdcXijjVDTB7GXprXrmzyMJRWiP74/view?usp=drive_link)
 
-- 🔭 I've worked in [Equity Research Report on Starbucks](https://drive.google.com/file/d/1HrjOiucY3edcuyrL3sZRKc9fjDCRdQqq/view?usp=drive_link)
+- 🔭 Project work 2 [Equity Research Report on Starbucks](https://drive.google.com/file/d/1HrjOiucY3edcuyrL3sZRKc9fjDCRdQqq/view?usp=drive_link)
 
 - 📝[Please visit my post on personal finance](https://www.linkedin.com/posts/pragna-junga-01075b195_thebestinvestmentyoucandoinyourlifeisinvestinginyourself-activity-7276681820828540928-cO5T?utm_source=share&utm_medium=member_desktop)
 
