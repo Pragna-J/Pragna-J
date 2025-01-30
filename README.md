@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragna-j&label=Profile%20views&color=0e75b6&style=flat" alt="pragna-j" /> </p>
 - 🌱 I’m currently learning **Equity Research Analysis**
 - <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+
 - 🔭 Project work 1 [Equity Research Report on Amazon](https://drive.google.com/file/d/1q5TJdcXijjVDTB7GXprXrmzyMJRWiP74/view?usp=drive_link)
 
 - 🔭 Project work 2 [Equity Research Report on Starbucks](https://drive.google.com/file/d/1HrjOiucY3edcuyrL3sZRKc9fjDCRdQqq/view?usp=drive_link)
